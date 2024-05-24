@@ -3,3 +3,6 @@ build = "npm run build"
 
 [gptengineer-app]
 project_id = "26746e90-9689-4fb5-8b37-c397db5ecfa4"
+
+[[gptengineer-app.openapi]]
+url = "https://api.mistral.ai/v1"
